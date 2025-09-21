@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:21/09/2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+![WhatsApp Image 2025-09-21 at 2 04 30 PM](https://github.com/user-attachments/assets/2297cc70-0995-43a4-8e83-77743115e994)
 
 
 ## OUTPUT
